@@ -1,0 +1,54 @@
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\RemoteMontring.exe.config
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\Data.mdf
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\Data_log.ldf
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\Doctor.mdf
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\Doctor_log.ldf
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\RemoteMontring.exe
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\RemoteMontring.pdb
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\mscorlib.dll
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\normidna.nlp
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\normnfc.nlp
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\normnfd.nlp
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\normnfkc.nlp
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\bin\Release\normnfkd.nlp
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\obj\Release\RemoteMontring.csprojResolveAssemblyReference.cache
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\obj\Release\RemoteMontring.doctor.resources
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\obj\Release\RemoteMontring.Patient.resources
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\obj\Release\RemoteMontring.RemoteSystem.resources
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\obj\Release\RemoteMontring.Form2.resources
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\obj\Release\RemoteMontring.Properties.Resources.resources
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\obj\Release\RemoteMontring.csproj.GenerateResource.Cache
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\obj\Release\RemoteMontring.exe
+C:\Users\Dr. Magdi Khalil\Desktop\مشاريع 2015-قصل اول\Temperature sensor  9W1 مشروع المرضى\test_1_4_2015\RemoteMontring\obj\Release\RemoteMontring.pdb
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\bin\Release\RemoteMontring.exe.config
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.exe
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.pdb
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\bin\Release\Data.mdf
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\bin\Release\Data_log.ldf
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\bin\Release\Doctor.mdf
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\bin\Release\Doctor_log.ldf
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\bin\Release\RemoteMontring.exe
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\bin\Release\RemoteMontring.pdb
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.csprojResolveAssemblyReference.cache
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.doctor.resources
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.Patient.resources
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.RemoteSystem.resources
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.Form2.resources
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.Properties.Resources.resources
+E:\test_2_4_2015\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.csproj.GenerateResource.Cache
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\bin\Release\RemoteMontring.exe.config
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.exe
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.pdb
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\bin\Release\Data.mdf
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\bin\Release\Data_log.ldf
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\bin\Release\Doctor.mdf
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\bin\Release\Doctor_log.ldf
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\bin\Release\RemoteMontring.exe
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\bin\Release\RemoteMontring.pdb
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.csprojResolveAssemblyReference.cache
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.doctor.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.Patient.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.RemoteSystem.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.Form2.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.Properties.Resources.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\Outlook.com\test\RemoteMontring\RemoteMontring\obj\Release\RemoteMontring.csproj.GenerateResource.Cache

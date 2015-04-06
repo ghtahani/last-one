@@ -1,0 +1,13 @@
+E:\test_1_4_2015\SendTemp\SendTemp\bin\Release\SendTemp.exe.config
+E:\test_1_4_2015\SendTemp\SendTemp\bin\Release\SendTemp.exe
+E:\test_1_4_2015\SendTemp\SendTemp\bin\Release\SendTemp.pdb
+E:\test_1_4_2015\SendTemp\SendTemp\obj\Release\SendTemp.exe
+E:\test_1_4_2015\SendTemp\SendTemp\obj\Release\SendTemp.pdb
+E:\test_1_4_2015\SendTemp1\SendTemp\bin\Release\SendTemp.exe.config
+E:\test_1_4_2015\SendTemp1\SendTemp\obj\Release\SendTemp.exe
+E:\test_1_4_2015\SendTemp1\SendTemp\obj\Release\SendTemp.pdb
+E:\test_1_4_2015\SendTemp1\SendTemp\bin\Release\SendTemp.exe
+E:\test_1_4_2015\SendTemp1\SendTemp\bin\Release\SendTemp.pdb
+E:\test_2_4_2015\SendTemp\SendTemp\bin\Release\SendTemp.exe.config
+E:\test_2_4_2015\SendTemp\SendTemp\obj\Release\SendTemp.exe
+E:\test_2_4_2015\SendTemp\SendTemp\obj\Release\SendTemp.pdb

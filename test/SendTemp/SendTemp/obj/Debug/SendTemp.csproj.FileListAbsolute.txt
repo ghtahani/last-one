@@ -1,0 +1,6 @@
+E:\test_1_4_2015\SendTemp\SendTemp\bin\Debug\SendTemp.exe.config
+E:\test_1_4_2015\SendTemp\SendTemp\bin\Debug\SendTemp.exe
+E:\test_1_4_2015\SendTemp\SendTemp\bin\Debug\SendTemp.pdb
+E:\test_1_4_2015\SendTemp\SendTemp\obj\Debug\SendTemp.csprojResolveAssemblyReference.cache
+E:\test_1_4_2015\SendTemp\SendTemp\obj\Debug\SendTemp.exe
+E:\test_1_4_2015\SendTemp\SendTemp\obj\Debug\SendTemp.pdb
